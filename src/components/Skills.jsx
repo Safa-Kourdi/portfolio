@@ -8,7 +8,7 @@ const groups = [
     items: ["Git", "GitHub", "REST APIs", "Axios", "React Query"],
   },
   {
-    title: "Other Languages",
+    title: "Basic Knowledge",
     items: ["Java", "Python", "C++"],
   },
 ];
